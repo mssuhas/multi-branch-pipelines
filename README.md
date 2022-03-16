@@ -1,1 +1,2 @@
-# multi-branch-pipelines
+# JenkinsAutomation
+Codebase for Jenkins automation tutorial
